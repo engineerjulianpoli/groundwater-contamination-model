@@ -19,6 +19,6 @@ Developed a one-dimensional groundwater contaminant transport model using Python
 - Performed mesh and time-step refinement to evaluate numerical error
 
 ## Files
-- Final project report
-- Python model
-- Figures and results
+- [Final Project Report](Groundwater_Contamination_Report.pdf)
+- [Python Model](groundwater_model.py)
+- [Concentration Profile Results](concentration_profiles.png)
